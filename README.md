@@ -16,3 +16,6 @@ YSlow for PhantomJS is a command line script that allows page performance analys
 
 ##### [grunt-yslow](https://github.com/andyshora/grunt-yslow)
 Phantom base tools that works as grunt plugin. Provide ability to set thresholds and check your application. Optimal solution for your grunt infrastructure.
+
+##### [Phantomas](https://github.com/macbre/phantomas)
+PhantomJS-based modular web performance metrics collector

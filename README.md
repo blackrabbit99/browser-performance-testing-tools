@@ -22,3 +22,7 @@ PhantomJS-based modular web performance metrics collector
 
 ##### [Browser-perf](https://github.com/axemclion/browser-perf)
 Tools for measuring browser performance metrics (like frame rates, expensive layouts, paints, styles, etc.). Works with WebDriver, Selenium, SauceLab, BrowserStack. Support user behaviour scripting. Perfect solution for single page apps.
+
+
+##### [IRHydra2](http://mrale.ph/irhydra/2/)
+This is a tool that can display intermediate representations used by V8 and Dart VM optimizing compilers. Very useful tool to indicate opt or deopt operations in your runtime. Please use it if you really need micro optimisation. 

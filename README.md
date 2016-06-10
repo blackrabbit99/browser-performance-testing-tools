@@ -25,4 +25,7 @@ Tools for measuring browser performance metrics (like frame rates, expensive lay
 
 
 ##### [IRHydra2](http://mrale.ph/irhydra/2/)
-This is a tool that can display intermediate representations used by V8 and Dart VM optimizing compilers. Very useful tool to indicate opt or deopt operations in your runtime. Please use it if you really need micro optimisation. 
+This is a tool that can display intermediate representations used by V8 and Dart VM optimizing compilers. Very useful tool to indicate opt or deopt operations in your runtime. Please use it if you really need micro optimisation.
+
+##### [Boundarizr](https://github.com/paullewis/Boundarizr/)
+Analyze layout complexity that could be a bottleneck for Chrome rendering(layouting) operation

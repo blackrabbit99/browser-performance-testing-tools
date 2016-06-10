@@ -19,3 +19,6 @@ Phantom base tools that works as grunt plugin. Provide ability to set thresholds
 
 ##### [Phantomas](https://github.com/macbre/phantomas)
 PhantomJS-based modular web performance metrics collector
+
+##### [Browser-perf](https://github.com/axemclion/browser-perf)
+Tools for measuring browser performance metrics (like frame rates, expensive layouts, paints, styles, etc.). Works with WebDriver, Selenium, SauceLab, BrowserStack. Support user behaviour scripting. Perfect solution for single page apps.

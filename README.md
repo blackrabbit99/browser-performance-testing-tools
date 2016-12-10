@@ -7,6 +7,11 @@ Collection of awesome browser performance tools and resources
 ##### [PSI - PageSpeed Insights](https://github.com/addyosmani/psi)
 Run mobile and desktop performance tests for your deployed site using Google PageSpeed Insights V2 with tidy reporting for your build process.
 
+**Plugins**:
+- [PSI With Gulp](https://github.com/addyosmani/psi-gulp-sample)
+- [PSI With Grunt](https://github.com/jrcryer/grunt-pagespeed)
+- [PSI With Local Server](https://github.com/denar90/psi-ngrok)
+
 
 ##### [WebPageTest API Wrapper ](https://github.com/marcelduran/webpagetest-api)
 WebPageTest API Wrapper for NodeJS. One of the most reachest tool for static analyzer. Include tonnes and also video reporting and screenshooting. Out of bow provide 200 request per day for a key
@@ -29,3 +34,17 @@ This is a tool that can display intermediate representations used by V8 and Dart
 
 ##### [Boundarizr](https://github.com/paullewis/Boundarizr/)
 Analyze layout complexity that could be a bottleneck for Chrome rendering(layouting) operation
+
+##### [Lighthouse](https://github.com/GoogleChrome/lighthouse)
+Auditing, performance metrics, and best practices for Progressive Web Apps
+
+##### [pwmetrics](https://github.com/paulirish/pwmetrics)
+Progressive web metrics at your fingertipz
+
+### Videos
+
+#### [Planning for Performance: PRPL](https://www.youtube.com/watch?v=RWLzUnESylc&index=18&list=PLNYkxOF6rcIA-epx7Z1jOiDKw8fhmWz78)
+
+#### [Web Performance Tooling](https://www.youtube.com/watch?v=iMqi55rcR00)
+
+#### [Memory leaks detecting](https://www.youtube.com/watch?v=OLWEyH7_4e0)
